@@ -7,5 +7,5 @@ Aujourd'hui j'ai commencé à lire de la documentation sur les distributions lin
 ------------------------- Mardi 3 Novembre 2020 -------------------------  
 Enfin réussi à installer correctement la première VM, après avoir fait une snapshot au cas ou les choses tournent mal, je vais maintenant m'attaquer à la configuration des 3 interfaces web qui vont premettre aux autres VMs de fonctionner corrèctement. Rendez-vous demain pour de nouvelles aventures
 
-------------------------- Mardi 3 Novembre 2020 -------------------------  
+------------------------- Mercredi 4 Novembre 2020 -------------------------  
 Sincèrement, je ne pensait pas si bien faire aujourd'hui, le serveur DHCP est configuré, il est maintenant venu l'heure de s'occupé de la seconde partie du sujet, elle concerne la création d'un serveur web sur FreeBSD, encore une distrib linux inconnue au bataillon. Je pensait pas dire ça, mais je commence à me sentir à l'aise, et surtout ça me plaît plutot bien de bosser la dessus.
